@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "itemId": "39ccb12d3f25ae99a62455f2bca477d5",
+            "name": "On-Demand Delivery"
+        },
+        {
+            "itemId": "0498421c39a8b439681218dc99123bf7",
+            "name": "Scheduled On-Demand Delivery"
+        },
+        {
+            "itemId": "0779eb35648bcf65933b3f9946f8caa6",
+            "name": "Self Pick-up"
+        }
+    ]
+}
